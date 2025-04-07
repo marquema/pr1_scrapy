@@ -1,0 +1,12 @@
+# Ignorar archivos .pyc generados por Python
+*.pyc
+*.pyo
+_pycache_/
+
+# Ignorar archivos temporales
+*.log
+*.bak
+
+# Ignorar entornos virtuales (si tienes uno)
+venv/
+.env/
