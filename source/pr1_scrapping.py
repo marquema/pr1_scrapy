@@ -123,7 +123,7 @@ class CoinMarketCapSpider(scrapy.Spider):
 
         #titulos y etiquetas
         fig.update_layout(
-            title='Variación de precio de Criptos over Time',
+            title='Datos de criptomonedas de CoinMarketCap: Precios, Volúmenes y Capitalización de Mercado',
             xaxis_title='Date & Time',
             yaxis_title='Precio en USD',
             xaxis_tickangle=-45,
@@ -186,7 +186,7 @@ intervalo = 60  # cada 60 segundos raspar
 
 def run_spider():
     d = runner.crawl(CoinMarketCapSpider)
-    #d.addCallback(lambda _: CoinMarketCapSpider().plot_data_from_json())
+    d.addCallback(lambda _: CoinMarketCapSpider().plot_data_from_json())
     return d
 
 #ejecutar indefinidamente

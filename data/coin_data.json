@@ -69694,5 +69694,275 @@
         "market_cap": "35.27B",
         "volume_24h": "$20.06B",
         "timestamp": "2025-04-07 16:51"
+    },
+    {
+        "rank": "",
+        "name": "Bitcoin",
+        "symbol": "",
+        "price": "$79,054.13",
+        "market_cap": "19.84M",
+        "volume_24h": "$1.57T",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "Ethereum",
+        "symbol": "",
+        "price": "$1,558.90",
+        "market_cap": "120.67M",
+        "volume_24h": "$188.57B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "Tether",
+        "symbol": "",
+        "price": "$0.9996",
+        "market_cap": "144.19B",
+        "volume_24h": "$144.14B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "XRP",
+        "symbol": "",
+        "price": "$1.85",
+        "market_cap": "58.27B",
+        "volume_24h": "$108.39B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "BNB",
+        "symbol": "",
+        "price": "$557.92",
+        "market_cap": "142.47M",
+        "volume_24h": "$79.5B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "USDC",
+        "symbol": "",
+        "price": "$1.00",
+        "market_cap": "60.02B",
+        "volume_24h": "$60.02B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "Solana",
+        "symbol": "",
+        "price": "$108.09",
+        "market_cap": "515.47M",
+        "volume_24h": "$55.72B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "Dogecoin",
+        "symbol": "",
+        "price": "$0.1501",
+        "market_cap": "148.76B",
+        "volume_24h": "$22.33B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "TRON",
+        "symbol": "",
+        "price": "$0.2341",
+        "market_cap": "94.97B",
+        "volume_24h": "$22.24B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "Cardano",
+        "symbol": "",
+        "price": "$0.5822",
+        "market_cap": "35.27B",
+        "volume_24h": "$20.54B",
+        "timestamp": "2025-04-08 10:19"
+    },
+    {
+        "rank": "",
+        "name": "Bitcoin",
+        "symbol": "",
+        "price": "$79,128.85",
+        "market_cap": "19.84M",
+        "volume_24h": "$1.57T",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "Ethereum",
+        "symbol": "",
+        "price": "$1,560.16",
+        "market_cap": "120.67M",
+        "volume_24h": "$188.08B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "Tether",
+        "symbol": "",
+        "price": "$0.9996",
+        "market_cap": "144.19B",
+        "volume_24h": "$144.14B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "XRP",
+        "symbol": "",
+        "price": "$1.85",
+        "market_cap": "58.27B",
+        "volume_24h": "$108.18B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "BNB",
+        "symbol": "",
+        "price": "$556.86",
+        "market_cap": "142.47M",
+        "volume_24h": "$79.38B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "USDC",
+        "symbol": "",
+        "price": "$0.9999",
+        "market_cap": "60.02B",
+        "volume_24h": "$60.02B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "Solana",
+        "symbol": "",
+        "price": "$108.02",
+        "market_cap": "515.47M",
+        "volume_24h": "$55.69B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "Dogecoin",
+        "symbol": "",
+        "price": "$0.1498",
+        "market_cap": "148.76B",
+        "volume_24h": "$22.3B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "TRON",
+        "symbol": "",
+        "price": "$0.2340",
+        "market_cap": "94.97B",
+        "volume_24h": "$22.23B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "Cardano",
+        "symbol": "",
+        "price": "$0.5812",
+        "market_cap": "35.27B",
+        "volume_24h": "$20.5B",
+        "timestamp": "2025-04-08 10:23"
+    },
+    {
+        "rank": "",
+        "name": "Bitcoin",
+        "symbol": "",
+        "price": "$79,128.85",
+        "market_cap": "19.84M",
+        "volume_24h": "$1.57T",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "Ethereum",
+        "symbol": "",
+        "price": "$1,560.16",
+        "market_cap": "120.67M",
+        "volume_24h": "$188.08B",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "Tether",
+        "symbol": "",
+        "price": "$0.9996",
+        "market_cap": "144.19B",
+        "volume_24h": "$144.14B",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "XRP",
+        "symbol": "",
+        "price": "$1.85",
+        "market_cap": "58.27B",
+        "volume_24h": "$108.18B",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "BNB",
+        "symbol": "",
+        "price": "$556.86",
+        "market_cap": "142.47M",
+        "volume_24h": "$79.38B",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "USDC",
+        "symbol": "",
+        "price": "$0.9999",
+        "market_cap": "60.02B",
+        "volume_24h": "$60.02B",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "Solana",
+        "symbol": "",
+        "price": "$108.02",
+        "market_cap": "515.47M",
+        "volume_24h": "$55.69B",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "Dogecoin",
+        "symbol": "",
+        "price": "$0.1498",
+        "market_cap": "148.76B",
+        "volume_24h": "$22.3B",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "TRON",
+        "symbol": "",
+        "price": "$0.2340",
+        "market_cap": "94.97B",
+        "volume_24h": "$22.23B",
+        "timestamp": "2025-04-08 10:24"
+    },
+    {
+        "rank": "",
+        "name": "Cardano",
+        "symbol": "",
+        "price": "$0.5812",
+        "market_cap": "35.27B",
+        "volume_24h": "$20.5B",
+        "timestamp": "2025-04-08 10:24"
     }
 ]
