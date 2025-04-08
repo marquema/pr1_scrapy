@@ -188,7 +188,6 @@ def run_spider():
     d = runner.crawl(CoinMarketCapSpider)
     d.addCallback(lambda _: CoinMarketCapSpider().plot_data_from_json())
     return d
-
 #ejecutar indefinidamente
 looping = task.LoopingCall(run_spider)
 looping.start(intervalo)
